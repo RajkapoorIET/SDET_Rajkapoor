@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-11T18:17:45 IST" name="Default suite" finished-at="2024-02-11T18:22:22 IST" duration-ms="276507">
+    <groups>
+    </groups>
+    <test started-at="2024-02-11T18:17:45 IST" name="Default test" finished-at="2024-02-11T18:22:22 IST" duration-ms="276507">
+      <class name="com.jdbcConnection.HashMapToXcel">
+        <test-method is-config="true" signature="intializeValues()[pri:0, instance:com.jdbcConnection.HashMapToXcel@5824a83d]" started-at="2024-02-11T18:17:45 IST" name="intializeValues" finished-at="2024-02-11T18:17:45 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeValues -->
+        <test-method signature="hashMapToExcelSheet()[pri:0, instance:com.jdbcConnection.HashMapToXcel@5824a83d]" started-at="2024-02-11T18:17:45 IST" name="hashMapToExcelSheet" finished-at="2024-02-11T18:17:46 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashMapToExcelSheet -->
+        <test-method signature="excelToHashMap()[pri:1, instance:com.jdbcConnection.HashMapToXcel@5824a83d]" started-at="2024-02-11T18:17:46 IST" name="excelToHashMap" finished-at="2024-02-11T18:20:41 IST" duration-ms="175273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelToHashMap -->
+      </class> <!-- com.jdbcConnection.HashMapToXcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
